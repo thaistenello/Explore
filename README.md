@@ -52,7 +52,7 @@ Seja você um ávido caminhante em busca do próximo cume majestoso ou um entusi
 <pre><code>cd Explore</code></pre>
 
 <h2>Licença</h2>
-<p>Este projeto é distribuído sob a licença MIT, para mais informações acesse o arquivo <a href="https://github.com/thaistenello/Explore/main/LICENSE">License </a>.</p>
+<p>Este projeto é distribuído sob a licença MIT, para mais informações acesse o arquivo <a href="https://github.com/thaistenello/Explore/blob/master/License">License </a>.</p>
 
 
 
