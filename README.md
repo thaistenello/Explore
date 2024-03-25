@@ -7,7 +7,7 @@ EXPLORE
 
 ![preview-gif](https://github.com/thaistenello/Explore/assets/131812228/aea9197c-bcad-49f5-8751-3600da7056a4)
 
-[![](https://placehold.jp/ffffff/350x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%2215px%22%2C%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%23dd5538)%2C%20to(%23eb5f5c))%22%7D)]()
+[![](https://placehold.jp/ffffff/350x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%2215px%22%2C%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%23dd5538)%2C%20to(%23eb5f5c))%22%7D)](https://explore-lyart.vercel.app/)
 
 <h2>Sobre o projeto</h2>
 
@@ -62,7 +62,7 @@ EXPLORE
 
 ![preview-gif](https://github.com/thaistenello/Explore/assets/131812228/aea9197c-bcad-49f5-8751-3600da7056a4)
 
-[![](https://placehold.jp/ffffff/300x50.png?text=View%20the%20Demo&css=%7B%22border-radius%22%3A%2215px%22%2C%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%23dd5538)%2C%20to(%23eb5f5c))%22%7D)]()
+[![](https://placehold.jp/ffffff/300x50.png?text=View%20the%20Demo&css=%7B%22border-radius%22%3A%2215px%22%2C%22background%22%3A%22%20-webkit-gradient(linear%2C%20left%20top%2C%20left%20bottom%2C%20from(%23dd5538)%2C%20to(%23eb5f5c))%22%7D)](https://explore-lyart.vercel.app/)
 
 <h2>About the Project</h2>
 
