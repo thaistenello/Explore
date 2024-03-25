@@ -111,4 +111,4 @@ Whether you're an avid hiker in search of the next majestic peak or a nature ent
 <pre><code>cd Explore</code></pre>
 
 <h2>License</h2>
-<p>This project is distributed under the MIT license, for more information access the <a href="https://github.com/thaistenello/Explore/main/LICENSE">License </a>file.</p>
+<p>This project is distributed under the MIT license, for more information access the <a href="https://github.com/thaistenello/Explore/blob/master/License">License </a>file.</p>
